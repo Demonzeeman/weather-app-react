@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weather-app-react/static/css/main.6ef148ee.css",
+    "main.js": "/weather-app-react/static/js/main.8008bcc0.js",
+    "static/media/farmland.jpg": "/weather-app-react/static/media/farmland.2bad3dd0e7c386283c83.jpg",
+    "index.html": "/weather-app-react/index.html",
+    "main.6ef148ee.css.map": "/weather-app-react/static/css/main.6ef148ee.css.map",
+    "main.8008bcc0.js.map": "/weather-app-react/static/js/main.8008bcc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef148ee.css",
+    "static/js/main.8008bcc0.js"
+  ]
+}
